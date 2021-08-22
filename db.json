@@ -4,13 +4,15 @@
         "id":1,
         "title":"animal welfare",
         "date":"12 Januari 2021",
-        "time":"09.00"
+        "time":"09.00",
+         "description":"ini adalah deskripsi"
       },
       {
         "id":2,
         "title":"community gardening",
         "date":"12 Januari 2021",
-        "time":"09.00"
+        "time":"09.00",
+         "description":"ini adalah deskripsi"
       }
    ]
 }
